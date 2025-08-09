@@ -1,0 +1,26 @@
+# Core dependencies
+python-dotenv==1.0.0
+pinecone-client==3.0.0
+langchain==0.1.0
+langchain-community==0.0.13
+ollama==0.1.7
+streamlit
+
+# Document processing
+pypdf2==3.0.1
+pymupdf==1.23.26
+python-magic==0.4.27
+
+# Text processing
+tiktoken==0.5.2
+numpy==1.24.4
+pandas==2.0.3
+
+# Utility libraries
+tqdm==4.66.1
+colorama==0.4.6
+rich==13.7.0
+
+# Optional: For advanced text processing
+spacy==3.7.2
+nltk==3.8.1
